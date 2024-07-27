@@ -15,7 +15,9 @@ Creating a homelab serves several key purposes:
 ### Components of the Homelab
 
 **Hardware**: CPU: AMD Ryzen 5 3600 6-Core Processor, RAM: 16 GB (2133mhz)
+
 **Virtualisation Software**: VirtualBox 7.0.20
+
 **Security Tools**: A range of offensive (e.g. nmap) and defensive (e.g. Wireshark) tools to simulate real-world attack and defense scenarios.
 
 ### Getting Started
