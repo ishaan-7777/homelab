@@ -1,4 +1,10 @@
-# SETTING UP MY HOMELAB
+# SETTING UP MY HOMELAB 
+
+# ⏸️ DOCUMENTATION IS CURRENTLY PAUSED ⏸️
+
+I will be building a new PC with much better specs!
+This means I will need to rebuild my homelab on my new system when it is built, and that setup documentation will replace this current one.
+
 
 ### VM Installation
 
