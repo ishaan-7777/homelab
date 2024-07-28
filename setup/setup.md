@@ -44,6 +44,30 @@ Power on both Kali and Ubuntu and complete initial install. After installing, yo
 
 ![image](https://github.com/user-attachments/assets/73700e3a-948f-4c4f-8cdc-d33ce8977289)
 
+### Setup the Network
+
+
+CTRL + H, will open the Network Manager. Click on NatNetworks, Right-Click and select create.
+
+Then change the systems to use the network that was created.
+
+![image](https://github.com/user-attachments/assets/3489d707-dec2-489b-a9e3-80861062614e)
+
+
+### Update the Operating Systems to Latest Verison
+Kali: run command 1)
+Ubuntu: run both commands
+
+1) sudo apt update && sudo apt upgrade -y
+2) sudo apt install -y build-essential git curl wget
+
+You may be prompted to restart the system to complete the installation.
+
+### Install tools
+
+
+
+### Create Baseline Snapshots
 
 
 <!-- notion continue after installtion and reboots 6:30 -->
