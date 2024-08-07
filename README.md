@@ -14,7 +14,7 @@ Creating a homelab serves several key purposes:
 
 ### Components of the Homelab
 
-**Hardware**: CPU: AMD Ryzen 5 3600 6-Core Processor, RAM: 16 GB (2133mhz)
+**Hardware**: CPU: AMD Ryzen 7 7800X3D 8-Core Processor (4.20GHz), RAM: 32GB (6000MHz)
 
 **Virtualisation Software**: VirtualBox 7.0.20
 
